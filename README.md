@@ -1,7 +1,10 @@
-Overview
+##Overview
+
 This project is based on the adaptive ellipse DBSCAN algorithm for ICESat-2 bathymetric point extraction and then inversion of bathymetric maps based on ICESat-2 extracted bathymetric points combined with Gaofen images. 
 The project uses Matlab and Python.
-Scripts
+
+##Scripts
+
 Training steps
 •	Configure the ICESat-2 datasets in pycode/step_1_savedata.py for training
 •	Run pycode/online_dbscan.py for ICESat-2 bathymetric point extraction
