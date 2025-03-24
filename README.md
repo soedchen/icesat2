@@ -17,3 +17,5 @@ Validation steps
 •	Run matlabcode/ dr_huaguangjiao_gf6.m for validation
 •	The results are presented in codes/image/res/
 
+The ICESat-2 ATL03 data are available at https://nsidc.org/data/ATL03/versions/5. The Gaofen images are available at https://data.cresda.cn/#/home. The Sentinel-2 Level-1C (L1C) imagery products are available at https://earthexplorer.usgs.gov/. 
+
